@@ -1,3 +1,11 @@
-*
-!dist
-!.gitignore
+.cache
+content
+node_modules
+.vscode
+src
+static
+*.js
+*.json
+*.md
+*.lock
+*.error
